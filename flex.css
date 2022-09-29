@@ -1,0 +1,107 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.EmplacementFlex {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.gauche {
+    width: 55%;
+    height: 100%;
+}
+
+.L1 {
+    height: 20%;
+    display: flex;
+}
+
+.N1 {
+    background-color: #C120F5;
+    width: 25%;
+}
+
+.N2 {
+    background-color: #F55A20;
+    width: 25%;
+}
+
+.N3 {
+    background-color: #CBEB1E;
+    width: 50%;
+}
+
+.L2 {
+    display: flex;
+    height: 20%;
+}
+
+.N6 {
+    background-color: #20F5E9;
+    width: 75%;
+}
+
+.N7 {
+    background-color: #FF00E6;
+    width: 25%;
+}
+
+.L3 {
+    display: flex;
+    height: 40%;
+}
+
+.N8 {
+    background-color: #2DF741;
+    width: 50%;
+}
+
+.N9 {
+    background-color: #EDB855;
+    width: 50%;
+}
+
+.L4  {
+    height: 20%;
+}
+
+.N10 {
+    background-color: #F08062;
+    height: 100%;
+}
+
+.milieu{
+    width: 15%;
+    height: 100%;
+    background-color: #F7FA8C;
+}
+
+.droite{
+    width: 30%;
+    height: 100%;
+}
+
+.N5 {
+    height: 40%;
+    width: 100%;
+    background-color: #1000E0;
+}
+
+.basdroit {
+    display: flex;
+    height: 60%;
+}
+
+.N11 {
+    background-color: #FA1001;
+    width: 50%;
+}
+
+.N12 {
+    background-color: #FA8900;
+    width: 50%;
+}
